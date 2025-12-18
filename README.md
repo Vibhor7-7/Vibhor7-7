@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on building a RAG pipeline that lets users talk directly to their data, combining vector databases, LLMs, and <br>data visualization to turn raw datasets into insights.<br>I’m really excited about machine learning and using data to answer interesting questions, whether that’s through <br>building tools, exploring new models, or just hacking on side projects.<br>I recently learned about Kernels/CUDA programming!
+I’m currently working on building a RAG pipeline that lets users talk directly to their data
+<br>I’m really excited about machine learning and using data to answer interesting questions, whether that’s through <br>building tools, exploring new models, or just hacking on side projects.<br>- I recently learned about Kernels/CUDA programming!
 
 
 ## 🌐 Socials:
