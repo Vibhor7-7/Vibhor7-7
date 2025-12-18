@@ -1,6 +1,8 @@
 # 💫 About Me:
-I’m currently working on building a RAG pipeline that lets users talk directly to their data
-<br>I’m really excited about machine learning and using data to answer interesting questions, whether that’s through <br>building tools, exploring new models, or just hacking on side projects.<br>- I recently learned about Kernels/CUDA programming!
+- UW Eng <br>
+- Prev SWE at Questify <br>
+- Currently working on building a RAG pipeline that lets users talk directly to their data <br>
+- Recently learned about Kernels/CUDA programming! <br>
 
 
 ## 🌐 Socials:
