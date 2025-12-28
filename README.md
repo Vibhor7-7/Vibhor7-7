@@ -1,5 +1,5 @@
 # 💫 About Me:
-- UW Eng <br>
+- UW ENG <br>
 - Prev SWE at Questify <br>
 - Currently working on building a RAG pipeline that lets users talk directly to their data <br>
 - Recently learned about Kernels/CUDA programming! <br>
