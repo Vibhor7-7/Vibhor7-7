@@ -1,8 +1,8 @@
 # 💫 About Me:
 - UW ENG <br>
 - Prev SWE at Questify <br>
-- Currently working on building a RAG pipeline that lets users talk directly to their data <br>
-- Recently learned about CUDA programming! <br>
+- Currently building and optimizing a RAG pipeline that lets users talk directly to their data <br>
+
 
 
 ## 🌐 Socials:
