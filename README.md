@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 - UW ENG <br>
-- Prev SWE at Questify <br>
+- Incoming SWE @ Clearline(YC 22) <br>
 - Working on a 3-D Memory Layer + MCP for LLM's<br>
 
 
