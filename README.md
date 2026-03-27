@@ -1,7 +1,7 @@
 # About Me:
-- UW ENG <br>
-- Incoming SWE @ Clearline(YC 22) <br>
+- Incoming SWE @ Clearline(YC 22) for S26 <br>
 - Working on a 3-D Memory Layer + MCP for LLM's<br>
+- Always building something cool on the side and looking into ML Research
 
 
 
