@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhor-sharma--/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vibhor7_7)[[Personal Website]](https://vibhorsharmaportfolio.study/)
 
-<img src="https://streak-stats.demolab.com?user=Vibhor7-7&theme=dark&hide_border=true" alt="Vibhor7-7's GitHub Stats" /> 
+
 
 ![](https://komarev.com/ghpvc/?username=Vibhor7-7)
 ---
