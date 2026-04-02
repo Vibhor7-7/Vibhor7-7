@@ -1,7 +1,6 @@
 # About Me:
 - I like to leverage AI and Data to solve problems 
 - Incoming SWE @ Clearline(YC 22) for S26 <br>
-- Working on a 3-D Memory Layer + MCP for LLM's<br>
 - 4x Hackathon Winner 
 
 
