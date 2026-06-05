@@ -1,6 +1,6 @@
 # About Me:
 - I like to leverage AI and Data to solve problems 
-- Incoming SWE @ Clearline(YC 22) for S26 <br>
+- member of technical staff intern @ Clearline(YC 22) for S26 <br>
 - 4x Hackathon Winner 
 
 
