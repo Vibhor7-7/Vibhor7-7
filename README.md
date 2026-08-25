@@ -1,6 +1,6 @@
 # About Me:
-- I like to leverage AI and Data to solve problems 
-- member of technical staff intern @ Clearline(YC 22) for S26 <br>
+- your friendly neighbourhood problem solver 
+- member of technical staff intern @ Clearline(YC 22)<br>
 - 4x Hackathon Winner 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhor-sharma--/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vibhor7_7)[https://www.vibhorsharma.me/]
