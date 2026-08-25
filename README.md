@@ -1,4 +1,3 @@
-# About Me:
 - your friendly neighbourhood problem solver 
 - member of technical staff intern @ Clearline(YC 22)<br>
 - 4x Hackathon Winner 
